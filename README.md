@@ -15,8 +15,9 @@ Demo mac app to create a sample signaling server. This local server can be used 
 Run the SignalingServer.xcodeproj
 
 ```
-  use the Start server button to start the server
+  use the 'Start Server' button to start the server
 ```
+    
+## Demo
 
-
-
+https://raw.githubusercontent.com/kuttz/signaling_server/main/SignalingServer.gif
